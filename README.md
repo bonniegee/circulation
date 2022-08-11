@@ -59,7 +59,7 @@ For brevity, these instructions assume that all shell commands will be executed 
 ## Quick Start
 
 The Circulation Manager must be connected to Elasticsearch and a Postgres database. The easiest configuration for
-development is to run the Elasticsearch and Postgres instanses in containers.
+development is to run the Elasticsearch and Postgres instances in containers.
 
 ### 1. Start up Elasticsearch
 
